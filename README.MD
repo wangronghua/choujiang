@@ -1,3 +1,6 @@
+需要node版本不能太高，实际测试时用的 11.15.0 可行
+
+
 # Lottery program
 
 Annual dinner lottery program, 3D sphere raffle, support for configuration of prize information, import participants information by `Excel`, and export lottery results by `Excel`
